@@ -1,0 +1,159 @@
+<html lang="vi">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keyword" content="apiserver">
+    <meta property="og:description" content="Bùi Thanh Phương">
+    <meta property="og:image" content="/7859E100-90B9-4EEB-9BE2-C0A463855956.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Bùi Thanh Phương">
+
+
+    <title>Trang Chủ - Bùi Thanh Phương</title>
+    
+    <link rel="prefetch" href="/" as="document" />
+    <link rel="prefetch" href="/login" as="document" />
+    <link rel="prefetch" href="/register" as="document" />
+
+
+    
+
+    
+    <link rel="shortcut icon" href="/assets/media/logos/favicon.ico" />
+
+    <link href="/assets/plugins/custom/fullcalendar/fullcalendar.bundle.css" rel="stylesheet" type="text/css" />
+    <link href="/assets/plugins/global/plugins.bundle.css?v=20112023161816" rel="stylesheet" type="text/css" />
+    <link href="/assets/plugins/custom/prismjs/prismjs.bundle.css?v=20112023161816" rel="stylesheet" type="text/css" />
+    <link href="/assets/css/style.bundle.css?v=20112023161816" rel="stylesheet" type="text/css" />
+
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.1.1/css/all.css">
+   
+    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+        <style>
+    .badge-light {
+        color: #000000;
+        background-color: #F5F8FA;
+        border: none;
+    }
+    .bg-red-2{
+        background: #ffdcdc;
+    }
+    .bg-red-2 h6{
+      color: #ff2f2f;
+    }
+    .form-check {
+      min-height: 2.5rem;
+    }
+    .pb-hight{
+      padding-bottom: 7px!important;
+    }
+    .icon-menu{
+      margin: auto 4px;
+      font-size: 19px;
+    }
+    a {
+      color: #7239EA;
+    }
+    a:hover {
+      color: #7239EA;
+    }
+
+    a:focus {
+      color: #7239EA;
+    }
+    .page-item.active .page-link:hover {
+      color: #fff!important;
+    }
+    .dataTables_scrollBody{
+      height:auto!important;
+    }
+    a:active {
+      color: #7239EA;
+    }
+    .btn-icon i{
+      margin-right: 0.5rem!important;
+    }
+    .btn-icon{
+      margin-right: 1rem!important;
+    }
+    .link-primary:hover {
+        color: #7239EA;
+    }
+    .link-primary:active{
+        color: #7239EA;
+    }
+    .link-primary:focus {
+        color: #7239EA;
+    }
+    .badge-green {
+        color: #FFFFFF;
+        background-color: #39ea6f;
+    }
+    .badge-black {
+        color: #FFFFFF;
+        background-color: #080655;
+    }
+    .alert-red {
+        color: #ea3939;
+        border: 1px dashed #f94f4f;
+        padding: 15px;
+        font-size: 22px;
+    }
+    .btn-xred{
+        margin-right: 1rem;
+        margin-top: 10px;
+        font-size: 12px;
+        font-family: monospace;
+        color: #fffbfb;
+        padding: 2px 6px;
+        background: #ea3939;
+        border-radius: 3px;
+    }
+    .alert-info {
+        background-color: #efe8ff;
+        border-color: #efe8ff;
+        color: #9c6efc;
+        padding: 21px;
+        font-size: 16px;
+        border-radius: 15px;
+        font-weight: 500;
+    }
+    .fs-2r{
+        font-size: 2rem;
+    }
+    
+    .bg-ip {
+        display: flex;
+        background-color: #7239ea !important;
+        background: url(https://www.insightfultechnologies.com/assets/images/devimg.png);
+        padding: 36px 24px;
+        color: #ffff;
+        justify-content: center;
+    }
+    .copy-ip{
+      color: #fff;
+      position: relative;
+      top: -4px;
+      left: 5px;
+      font-size: 21px;
+    }
+    </style>
+</head>
+
+	<body id="kt_body" class="auth-bg">
+		<div class="d-flex flex-column flex-root">
+			<div class="d-flex flex-column flex-center flex-column-fluid p-10">
+				<img src="/assets/img/18-dark.png" alt="" class="mw-100 mb-10 h-lg-450px" />
+				<h1 class="fw-bold mb-10" style="color: #A3A3C7">Trang này không tồn tại</h1>
+				<a href="/home" class="btn btn-primary">Quay về</a>
+			</div>
+		</div>
+
+		<script src="/assets/plugins/global/plugins.bundle.js"></script>
+		<script src="/assets/js/scripts.bundle.js"></script>
+	</body>
+</html>
